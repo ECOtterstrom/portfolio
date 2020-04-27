@@ -6,10 +6,19 @@
 
 
 body {
-    background-image: url('../images/geometric-leaves.png');
+    background-image: url('../images/aquapaintstrokeslg.jpg');
     /* background-color: lightgrey; */
     /* font-family:'Montserrat', sans-serif; */
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
+}
+
+.navcolor {
+    color: steelblue ;
+}
+
+.btn {
+    background-color: slategray;
+    border: gray;
 }
 
 .content {
@@ -19,36 +28,36 @@ body {
 }
 
 .contact-info {
-    border: 10px solid darksalmon;
+    border: 5px solid steelblue;
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 50px;
     height: 75%;
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
-    background-color: lightsalmon;
-    color: #ffffff;
+    background-color: transparent;
+    color: slategray;
 }
 
 .portfolio-info {
-        border: 10px solid darksalmon;
+        border: 5px solid steelblue;
         margin-top: 20px;
         margin-bottom: 20px;
         padding: 50px;
         height: 75%;
         font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
-        background-color: lightsalmon;
+        background-color: transparent;
         color: #ffffff;
 }
 
 .about-info {
-    border: 10px solid darksalmon;
+    border: 5px solid steelblue;
     margin-top: 20px;
     margin-bottom: 20px;
     padding:50px;
     height: 75%;
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
-    background-color: lightsalmon;
-    color: #ffffff;
+    background-color: transparent;
+    color: slategray;
 }
 
 .footer {
@@ -56,4 +65,5 @@ body {
     clear: both;
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
     text-align: center;
+    color: slategray;
 }
