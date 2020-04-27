@@ -18,7 +18,7 @@ body {
 
 .btn {
     background-color: slategray;
-    border: gray;
+    border: gray 2px;
 }
 
 .content {
@@ -35,7 +35,7 @@ body {
     height: 75%;
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
     background-color: transparent;
-    color: slategray;
+    color: darkslategray;
 }
 
 .portfolio-info {
@@ -57,7 +57,7 @@ body {
     height: 75%;
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
     background-color: transparent;
-    color: slategray;
+    color: darkslategray;
 }
 
 .footer {
@@ -65,5 +65,5 @@ body {
     clear: both;
     font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
     text-align: center;
-    color: slategray;
+    color: darkslategray;
 }
